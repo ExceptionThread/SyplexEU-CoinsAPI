@@ -1,0 +1,9 @@
+name: CoinsAPI
+version: '${project.version}'
+main: de.fantasiereicher.coinsapi.CoinsAPI
+api-version: 1.19
+authors: [ Fantasiereicher ]
+description: CoinsAPI
+website: syplex.eu
+commands:
+  coins:
